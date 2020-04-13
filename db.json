@@ -1,0 +1,13 @@
+{
+"VL1L2":":="PAC_3200".U_L1_L2:",
+"VL2L3":":="PAC_3200".U_L2_L3:",
+"VL3L1":":="PAC_3200".U_L3_L1:",
+"I1":":="PAC_3200".I1:",
+"I2":":="PAC_3200".I2:",
+"I3":":="PAC_3200".I3:",
+"TrenutnaPotrosnja":":="Trenutna_potrosnja":",
+"UkupnaPotrosnja":":="Ukupna_potrosnja":",
+"V1":":="PAC_3200".V1:",
+"V2":":="PAC_3200".V2:",
+"V3":":="PAC_3200".V3:"
+}
